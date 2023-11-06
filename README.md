@@ -10,7 +10,7 @@ Playwright, also has its own test runner for end-to-end tests called Playwright 
 3. Run `npx test` to execute the tests
 4. Run `npx test tests/spec/example.spec.ts` to execute a single spec file
 5. Run `npx test --ui` to run tests in head mode
-6. RUN `npx playwright show-report` to 
+6. RUN `npx playwright show-report` to generate inbuilt HTML report
     
 
 - [Playwright official doc] (https://playwright.dev/)
