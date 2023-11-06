@@ -1,0 +1,15 @@
+{
+  "login_details": {
+    "user_name": "standard_user",
+    "password": "secret_sauce"
+  },
+  "products": [
+    "add-to-cart-sauce-labs-backpack",
+    "add-to-cart-sauce-labs-bike-light"
+  ],
+  "checkout_info": {
+    "first_name": "Eric",
+    "last_name": "Martin",
+    "zip_code": "600005"
+  }
+}
